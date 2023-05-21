@@ -39,6 +39,3 @@ npm run client-install
 - **Bonus**: check [`/utils/shuffle.js`](./utils/shuffle.js). Implement the function and use the function to shuffle the options when you give the questions array.
 
 ## Good Luck!
-
-# ibm-lab3
-# ibm-lab3
